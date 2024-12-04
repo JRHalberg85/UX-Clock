@@ -1,0 +1,8 @@
+{
+    "name": "UX Clock Card",
+    "content_in_root": true,
+    "render_readme": false,
+    "filename": "uxclock.js",
+    "homeassistant": "2024.11",    
+    "description": "A customizable clock card with rotating indicators and time display."
+}
